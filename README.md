@@ -63,7 +63,7 @@ Clone este repositório usando o comando:
 git clone https://github.com/Tauan-Ray/Calculadora.git
 ```
 
-Inicie o projeto com(certifique-se que está dentro da pasta Sininho-Baby):
+Inicie o projeto com(certifique-se que está dentro da pasta Calculadora):
 
 ```bash
 python Calc.py
